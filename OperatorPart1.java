@@ -11,7 +11,7 @@ public class OperatorPart1{
 	int num2 = 100;
 	
 	int addition = num1 + num2;
-	int subraction = num1 - num2;
+	int subtraction = num1 - num2;
 	double division = (double) num1/num2;
 	int multiplication = num1 * num2;
 	int remainder = num1 % num2;
