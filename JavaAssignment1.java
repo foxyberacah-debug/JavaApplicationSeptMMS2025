@@ -5,7 +5,7 @@ public class JavaAssignment1{
 		System.out.println("Task 1");
 		Scanner input = new Scanner(System.in);
 		
-		System.out.printf("Enter your First value ;");
+		System.out.printf("Enter your first value ;");
 		short num1 = input.nextShort();
 		
 		System.out.printf("Enter your next value ;");
