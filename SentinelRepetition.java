@@ -10,7 +10,7 @@ public class SentinelRepetition{
 		
 		
 		while(true){
-			System.out.print("Enter a number");
+			System.out.print("Enter a number: ");
 			num = scan.nextInt();
 			// nextIntcollects an integer and stores inside num
 			// sentinel value will not be introduced by the user
